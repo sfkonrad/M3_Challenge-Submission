@@ -1,8 +1,7 @@
 ## M3_Challenge-Submission
 # Crypto Arbitrage
 
-In this Challenge, you'll take on the role of an analyst at a high-tech investment firm. The vice president (VP) of your department is considering arbitrage opportunities in Bitcoin and other cryptocurrencies. As Bitcoin trades on markets across the globe, can you capitalize on simultaneous price dislocations in those markets by using the powers of Pandas?
+In this Challenge, we've taken on the role of an analyst at a high-tech investment firm. The vice president (VP) of your department is considering arbitrage opportunities in Bitcoin and other cryptocurrencies. As Bitcoin trades on markets across the globe, we studied the opportunity to capitalize on simultaneous price dislocations in those markets by using the powers of Pandas.
 
-For this assignment, you’ll sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. Your task is to apply the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
+For this assignment, we sorted through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. We then applied the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
 
-This aspect of the Challenge will consist of 3 phases.
