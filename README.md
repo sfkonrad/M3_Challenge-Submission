@@ -9,6 +9,6 @@ This aspect of the study consisted of 3 phases:
 
    1)  Collect the data.
 
-Prepare the data.
+   2)  Prepare the data.
 
-Analyze the data.
+   3)  Analyze the data.
