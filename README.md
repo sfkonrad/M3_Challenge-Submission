@@ -5,3 +5,9 @@ In this Challenge, we've taken on the roles of analysts at a high-tech investmen
 
 For this study, we sorted through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. We then applied the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
 
+This aspect of the study will consist of 3 phases.
+    Collect the data.
+
+   Prepare the data.
+
+  Analyze the data.
