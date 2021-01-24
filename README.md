@@ -7,8 +7,8 @@ For this study, we sorted through historical trade data for Bitcoin on two excha
 
 This aspect of the study consisted of 3 phases:
 
-   1)  Collect the data.
+   1)  Data Collection.
 
-   2)  Prepare the data.
+   2)  Data Preparation.
 
-   3)  Analyze the data.
+   3)  Data Analysis.
